@@ -1,1 +1,0 @@
-console.say("Thanks for visiting our website!");
