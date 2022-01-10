@@ -1,1 +1,1 @@
-console.log('Hello World!');
+console.say("Thanks for visiting our website!")
