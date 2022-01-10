@@ -1,1 +1,1 @@
-console.warn("Thanks for visiting our website!");
+console.say("Thanks for visiting our website!");
